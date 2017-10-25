@@ -6,7 +6,7 @@
 
 ## Code Example
 
-//Recursively check boxes
+	//Recursively check boxes
 	void check(int x, int y) {
 		setStuff(x, y);
 		if (checked.contains("(" + x + "," + y + ")"))
