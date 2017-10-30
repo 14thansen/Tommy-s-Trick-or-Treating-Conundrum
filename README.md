@@ -1,4 +1,4 @@
-# Tommy-s-Trick-or-Treating-Conundrum
+# Tommy-s-Trick-or-Treating-Conundrum (Updated)
 
 ## Synopsis
 "Tommy's Trick-or-Treating Conundrum" is a Minesweeper style game. In this game the user helps Tommy solve a big problem; Tommy lives in a trailer park with his grandma, we’ll call her granny for short. Everyone in this trailer park is old and some of them, including Tommy’s grandma, are really mean. In granny’s trailer park a few of her neighbors have not bought candy and granny just told Tommy that if he knocks on even one door that doesn’t have any candy they have to go home! The problem is, no one will tell Tommy which trailers don’t have candy, they can only tell him how many trailers around theirs don’t have any. The users goal is to help Tommy get to all of the trailers with candy before going to any house without.
@@ -82,3 +82,7 @@ When playing the game you will first be able to choose the width and the length 
 ## Contributors
 
 This code is anything if not perfect, if you want to add to the game please feel free to do so. I was planning on adding an instructions pane as well as the ability to flag which buttons the user beleives don't have any candy but did not have time.
+
+## Update
+
+You can now right click to flag trailers and mark with a question mark, I have also added a timer as well as a score board. I have also added an instructions page to the game. 
